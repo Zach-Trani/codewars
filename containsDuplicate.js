@@ -14,6 +14,7 @@ function containsDupes(arr){
         }else{
             numsMap[num] = true
         }
+        console.log(numsMap)
     }
     return false
 }

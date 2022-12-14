@@ -8,6 +8,8 @@ function isCat(bool) {
     }
 };
 
+
+// if else
 function ternaryIsCat(bool) {
     bool === true ? console.log('cat') : console.log('dog')
 }
