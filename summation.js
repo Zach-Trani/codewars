@@ -9,7 +9,6 @@ const summation = (num) => {
     let summedNum = 0;
 
     for (i = 1; i <= num; i++){
-        // console.log(i)
         summedNum += i;
     };
     return summedNum;
