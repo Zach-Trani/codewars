@@ -1,1 +1,1 @@
-# codewars
+# codewars challenges in JavaScript
