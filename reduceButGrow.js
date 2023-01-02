@@ -6,9 +6,9 @@ const grow = (x) => {
     value = 1;
 
     for (i = 0; i < x.length; i++) {
-        value = value * i;
+        value = value * x[i];
     };
-
+    // change
     return value;
 };
 
